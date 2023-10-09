@@ -18,8 +18,9 @@
     space-between
     space-around
     space-evenly
-
   */
+  display: flex;
+  justify-content:space-between;
 }
 
 /*
